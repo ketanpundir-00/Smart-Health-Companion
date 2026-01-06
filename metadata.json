@@ -1,0 +1,8 @@
+{
+  "name": "Smart Health Companion",
+  "description": "An AI-powered symptom analysis companion using Gemini 3 Pro multimodal capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
